@@ -1,0 +1,37 @@
+Name,Ring Name,TRUE/FALSE,Description
+Canva Magic,"create, design, enhance",TRUE,"AI-powered design assistant for social media, marketing, and presentations"
+Fireflies.ai,"assess, analyze",TRUE,"Records, transcribes, summarizes meetings with search and action item tracking"
+DeepL Translate,"translate, assess",TRUE,Neural machine translation tool known for accuracy and fluency
+Grammarly,"assess, edit",TRUE,"AI-powered writing assistant for grammar, style, and clarity"
+LaMDA,"assess, generate",FALSE (research only),Google's factual language model for open ended conversation
+Jasper,"create, generate",TRUE,"AI writing assistant that helps create marketing copy, blog posts, and other content"
+DALL-E 2,"create, generate",FALSE (research only),Generates realistic and creative images from text descriptions
+GitHub Copilot,"create, generate",TRUE,AI code completion tool that suggests code snippets and functions
+Mergeable,"assess, analyze",TRUE,Code review tool that uses AI to identify potential issues and suggest improvements
+Synthesia,"create, generate",TRUE,"Creates realistic videos from text, allowing you to personalize content with AI-generated avatars"
+Runway,"create, experiment",TRUE,"Machine learning platform for creative exploration, allowing experimentation with various AI tools"
+X-Ray,"assess, analyze",TRUE,"AI tool for medical image analysis, assisting doctors in diagnosing diseases"
+Tesla Autopilot,"assess, control",TRUE (limited),Advanced driver-assistance system that provides some level of autonomous driving
+IBM Watson Assistant,"assess, generate",TRUE,AI chatbot platform that can be used to create interactive customer service experiences
+GPT-3,"create, generate",FALSE (research only),Powerful language model capable of generating different creative text formats
+Smart Reply (Gmail),"assess, generate",TRUE,AI-powered feature that suggests short reply options to emails
+Deepomatic,"assess, analyze",TRUE,Video analytics platform that uses AI to extract insights from video footage
+Horizon Worlds,"create, experience",TRUE,Metaverse platform where users can create and interact with virtual worlds
+Anyverse,"create, experience",TRUE,Another metaverse platform for building and exploring virtual spaces
+DeepMind AlphaFold,"assess, predict",FALSE (research only),Predicts the 3D structure of proteins from their amino acid sequence
+DeepMind AlphaStar,"assess, control",FALSE (research only),AI agent that achieved superhuman performance in the complex video game StarCraft II
+Tesla FSD Beta,"assess, control",TRUE (limited),Advanced driver-assistance system with features closer to full self-driving capabilities (still under development and testing)
+Amper Music,"create, generate",TRUE,AI-powered music creation platform that allows users to generate different musical styles
+Neuro-linguistic Programming (NLP) Tools,"assess, analyze",TRUE,Set of techniques that use AI to understand and influence human communication
+Personlize,"create, personalize",TRUE,AI-powered personalization platform that tailors content and experiences for individual users
+IBM Maximo,"assess, predict",TRUE,Predictive maintenance platform that uses AI to identify potential equipment failures and schedule maintenance
+Smart Reply (Comments),"assess, generate",TRUE,AI feature on some platforms that suggests replies to comments
+Content Moderation Tools,"assess, analyze",TRUE,AI-powered tools used by platforms to identify and remove harmful content
+Smart Summarization Tools,"assess, analyze",TRUE,AI tools that automatically generate summaries of text or video content
+Style Transfer Tools,"create, transform",TRUE,AI tools that can apply the style of one image to another
+DALL-E Mini,"create, generate",TRUE (limited access),AI image generation tool that creates whimsical and surprising images from text prompts
+Midjourney,"create, generate",TRUE (limited access),Another AI art generation tool known for its dreamlike and artistic style
+Stable Diffusion,"create, generate",TRUE (open source),Open-source AI image generation model with a focus on stability and control
+Bard (Google AI),"assess, generate",TRUE,"Large language model, similar to me, trained to be informative and comprehensive"
+Megatron-Turing NLG,"create, generate",TRUE,Another large language model capable of generating different creative text formats
+WuDao 2.0,"create, generate",TRUE,Chinese large language model known for its ability to generate different creative text formats
